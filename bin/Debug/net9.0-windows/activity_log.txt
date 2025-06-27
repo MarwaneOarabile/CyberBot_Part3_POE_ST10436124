@@ -1,0 +1,184 @@
+27/06/2025 09:40 | CyberBot: Hello ! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:40 | User: hi
+27/06/2025 09:40 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: tell me about phishing
+27/06/2025 09:41 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: wh
+27/06/2025 09:41 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:42 | User: phishing
+27/06/2025 09:42 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:42 | CyberBot: 📒 Activity Log:
+27/06/2025 09:40 | CyberBot: Hello ! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:40 | User: hi
+27/06/2025 09:40 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: tell me about phishing
+27/06/2025 09:41 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: wh
+27/06/2025 09:41 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:42 | User: phishing
+27/06/2025 09:42 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:43 | CyberBot: Hello ! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:43 | User: hi
+27/06/2025 09:43 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:43 | User: whats your name
+27/06/2025 09:43 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:43 | User: name
+27/06/2025 09:43 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:44 | User: who are you
+27/06/2025 09:44 | CyberBot: I'm CyberBot, your cybersecurity assistant. 🤖
+27/06/2025 09:50 | CyberBot: Hello Oara! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:51 | User: hello
+27/06/2025 09:51 | CyberBot: Hello Oara, I'm here to help with your cybersecurity questions!
+27/06/2025 09:51 | User: how can i browse
+27/06/2025 09:51 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:52 | User: i want to search on the internet
+27/06/2025 09:52 | CyberBot: CyberBot: To browse safely: keep your software updated, use antivirus, and don’t click on suspicious links.
+27/06/2025 09:52 | User: browsing
+27/06/2025 09:52 | CyberBot: CyberBot: To browse safely: keep your software updated, use antivirus, and don’t click on suspicious links.
+27/06/2025 09:52 | CyberBot: CyberBot: Here's a browsing tip - Keep your browser and software up to date.
+27/06/2025 09:52 | User: browsing
+27/06/2025 09:52 | CyberBot: CyberBot: To browse safely: keep your software updated, use antivirus, and don’t click on suspicious links.
+27/06/2025 09:52 | CyberBot: CyberBot: Here's a browsing tip - Avoid clicking on unknown links or ads.
+27/06/2025 09:53 | User: password
+27/06/2025 09:53 | CyberBot: A strong password must be longer than 8 characters and include a mix of uppercase, lowercase, numbers, and symbols.
+27/06/2025 09:53 | User: password
+27/06/2025 09:53 | CyberBot: A strong password must be longer than 8 characters and include a mix of uppercase, lowercase, numbers, and symbols.
+27/06/2025 09:53 | CyberBot: Tip: Don't reuse passwords across sites.
+27/06/2025 09:57 | CyberBot: Hello bile! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:57 | User: cybersecurity
+27/06/2025 09:57 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:57 | User: cybersecurity
+27/06/2025 09:57 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:57 | CyberBot: Tip: Avoid using public Wi-Fi for sensitive transactions.
+27/06/2025 09:58 | CyberBot: Hello bi! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:58 | User: cybersecurity
+27/06/2025 09:58 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:58 | User: cybersecurity
+27/06/2025 09:58 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:58 | CyberBot: Tip: Install antivirus software and keep it updated.
+27/06/2025 10:06 | CyberBot: Hello oara! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:06 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Hello oara! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Avoid using public Wi-Fi for sensitive transactions.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Install antivirus software and keep it updated.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Use strong, unique passwords for each account.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Install antivirus software and keep it updated.
+27/06/2025 10:11 | CyberBot: Hello hello! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:11 | User: hi
+27/06/2025 10:11 | CyberBot: Hello hello, I'm here to help with your cybersecurity questions!
+27/06/2025 10:11 | User: hi
+27/06/2025 10:11 | CyberBot: Hello hello, I'm here to help with your cybersecurity questions!
+27/06/2025 10:11 | User: hello
+27/06/2025 10:11 | CyberBot: Hello hello, I'm here to help with your cybersecurity questions!
+27/06/2025 10:12 | User: why
+27/06/2025 10:12 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 10:12 | User: what is phishing
+27/06/2025 10:12 | CyberBot: Phishing is when someone tries to trick you into giving personal info by pretending to be someone you trust.
+27/06/2025 10:12 | User: i am scared of phishing
+27/06/2025 10:12 | CyberBot: CyberBot: Don’t worry, you're doing the right thing by learning. I'm here to help you stay safe online.
+27/06/2025 10:12 | User: i want to add a task
+27/06/2025 10:12 | CyberBot: ✅ Task saved: Parsed Title (Reminder set for 30-Jun-2025)
+27/06/2025 10:17 | CyberBot: Hello Bile! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:17 | CyberBot: 📒 Activity Log:
+27/06/2025 09:40 | CyberBot: Hello ! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:40 | User: hi
+27/06/2025 09:40 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: tell me about phishing
+27/06/2025 09:41 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: wh
+27/06/2025 09:41 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:42 | User: phishing
+27/06/2025 09:42 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:42 | CyberBot: 📒 Activity Log:
+27/06/2025 09:40 | CyberBot: Hello ! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:40 | User: hi
+27/06/2025 09:40 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: tell me about phishing
+27/06/2025 09:41 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:41 | User: wh
+27/06/2025 09:41 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:42 | User: phishing
+27/06/2025 09:42 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:43 | CyberBot: Hello ! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:43 | User: hi
+27/06/2025 09:43 | CyberBot: Hello , I'm here to help with your cybersecurity questions!
+27/06/2025 09:43 | User: whats your name
+27/06/2025 09:43 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:43 | User: name
+27/06/2025 09:43 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:44 | User: who are you
+27/06/2025 09:44 | CyberBot: I'm CyberBot, your cybersecurity assistant. 🤖
+27/06/2025 09:50 | CyberBot: Hello Oara! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:51 | User: hello
+27/06/2025 09:51 | CyberBot: Hello Oara, I'm here to help with your cybersecurity questions!
+27/06/2025 09:51 | User: how can i browse
+27/06/2025 09:51 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 09:52 | User: i want to search on the internet
+27/06/2025 09:52 | CyberBot: CyberBot: To browse safely: keep your software updated, use antivirus, and don’t click on suspicious links.
+27/06/2025 09:52 | User: browsing
+27/06/2025 09:52 | CyberBot: CyberBot: To browse safely: keep your software updated, use antivirus, and don’t click on suspicious links.
+27/06/2025 09:52 | CyberBot: CyberBot: Here's a browsing tip - Keep your browser and software up to date.
+27/06/2025 09:52 | User: browsing
+27/06/2025 09:52 | CyberBot: CyberBot: To browse safely: keep your software updated, use antivirus, and don’t click on suspicious links.
+27/06/2025 09:52 | CyberBot: CyberBot: Here's a browsing tip - Avoid clicking on unknown links or ads.
+27/06/2025 09:53 | User: password
+27/06/2025 09:53 | CyberBot: A strong password must be longer than 8 characters and include a mix of uppercase, lowercase, numbers, and symbols.
+27/06/2025 09:53 | User: password
+27/06/2025 09:53 | CyberBot: A strong password must be longer than 8 characters and include a mix of uppercase, lowercase, numbers, and symbols.
+27/06/2025 09:53 | CyberBot: Tip: Don't reuse passwords across sites.
+27/06/2025 09:57 | CyberBot: Hello bile! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:57 | User: cybersecurity
+27/06/2025 09:57 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:57 | User: cybersecurity
+27/06/2025 09:57 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:57 | CyberBot: Tip: Avoid using public Wi-Fi for sensitive transactions.
+27/06/2025 09:58 | CyberBot: Hello bi! I'm CyberBot. Type 'help' for options.
+27/06/2025 09:58 | User: cybersecurity
+27/06/2025 09:58 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:58 | User: cybersecurity
+27/06/2025 09:58 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 09:58 | CyberBot: Tip: Install antivirus software and keep it updated.
+27/06/2025 10:06 | CyberBot: Hello oara! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:06 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Hello oara! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Cybersecurity is the practice of protecting systems, networks, and data from cyber threats.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Avoid using public Wi-Fi for sensitive transactions.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Install antivirus software and keep it updated.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Use strong, unique passwords for each account.
+27/06/2025 10:07 | User: cybersecurity
+27/06/2025 10:07 | CyberBot: Tip: Install antivirus software and keep it updated.
+27/06/2025 10:11 | CyberBot: Hello hello! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:11 | User: hi
+27/06/2025 10:11 | CyberBot: Hello hello, I'm here to help with your cybersecurity questions!
+27/06/2025 10:11 | User: hi
+27/06/2025 10:11 | CyberBot: Hello hello, I'm here to help with your cybersecurity questions!
+27/06/2025 10:11 | User: hello
+27/06/2025 10:11 | CyberBot: Hello hello, I'm here to help with your cybersecurity questions!
+27/06/2025 10:12 | User: why
+27/06/2025 10:12 | CyberBot: I'm not sure about that. Try asking about 'phishing' or 'passwords'.
+27/06/2025 10:12 | User: what is phishing
+27/06/2025 10:12 | CyberBot: Phishing is when someone tries to trick you into giving personal info by pretending to be someone you trust.
+27/06/2025 10:12 | User: i am scared of phishing
+27/06/2025 10:12 | CyberBot: CyberBot: Don’t worry, you're doing the right thing by learning. I'm here to help you stay safe online.
+27/06/2025 10:12 | User: i want to add a task
+27/06/2025 10:12 | CyberBot: ✅ Task saved: Parsed Title (Reminder set for 30-Jun-2025)
+27/06/2025 10:17 | CyberBot: Hello Bile! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:19 | User: add task
+27/06/2025 10:19 | CyberBot: Let's create a new cybersecurity task!
+27/06/2025 10:19 | CyberBot: What should we call this task? (e.g. 'Enable 2FA')
+27/06/2025 10:20 | CyberBot: Hello bile! I'm CyberBot. Type 'help' for options.
+27/06/2025 10:20 | User: task
+27/06/2025 10:20 | CyberBot: ✅ Task saved: Parsed Title (Reminder set for 30-Jun-2025)
+27/06/2025 10:20 | User: add task
+27/06/2025 10:20 | CyberBot: Let's create a new cybersecurity task!
+27/06/2025 10:20 | CyberBot: What should we call this task? (e.g. 'Enable 2FA')

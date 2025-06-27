@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CyberBotPart3/1.0.0": {
+        "runtime": {
+          "CyberBotPart3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CyberBotPart3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

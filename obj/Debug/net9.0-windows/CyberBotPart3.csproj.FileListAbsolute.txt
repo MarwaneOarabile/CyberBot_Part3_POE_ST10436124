@@ -1,0 +1,28 @@
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\CyberBotPart3.exe
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\txt files\activity_log.txt
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\txt files\tasks.txt
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\CyberBotPart3.deps.json
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\CyberBotPart3.runtimeconfig.json
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\CyberBotPart3.dll
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\CyberBotPart3.pdb
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\ChatBotWindow.g.cs
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\cyberMinigameWindow.g.cs
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\WelcomeWindow.g.cs
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3_MarkupCompile.cache
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3_MarkupCompile.lref
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\ChatBotWindow.baml
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\cyberMinigameWindow.baml
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\WelcomeWindow.baml
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.g.resources
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.AssemblyInfoInputs.cache
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.AssemblyInfo.cs
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.csproj.CoreCompileInputs.cache
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.sourcelink.json
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.dll
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\refint\CyberBotPart3.dll
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.pdb
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\CyberBotPart3.genruntimeconfig.cache
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\obj\Debug\net9.0-windows\ref\CyberBotPart3.dll
+C:\Users\Oarabile Marwane\OneDrive - ADvTECH Ltd\ST10436124_PROG6221_POE_Part3\CyberBotPart3\bin\Debug\net9.0-windows\Resources\greetings.wav
